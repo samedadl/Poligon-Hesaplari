@@ -33,8 +33,8 @@ ka=A[:,0]
 kenar=A[:,1]
 kenar=np.delete(kenar, ss-1)
 
-a0=float(input('Başlangıç semt asçısını giriniz: '))
-a1=float(input('Son semt asçısını giriniz: '))
+a0=float(input('Başlangıç semt açısını giriniz: '))
+a1=float(input('Son semt açısını giriniz: '))
 y0=float(input('İlk Nirengi y koordinatı: '))
 x0=float(input('İlk Nirengi x koordinatı: '))
 y1=float(input('Son Nirengi y koordinatı: '))
