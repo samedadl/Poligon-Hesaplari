@@ -11,7 +11,7 @@ import numpy as np
 
 A= np.loadtxt("acikpoligon.txt", dtype='f', delimiter=' ')
                                                  
-a0=float(input('Başlangıç semt asçısını giriniz: '))
+a0=float(input('Başlangıç semt açısını giriniz: '))
 y0=float(input('Nirengi y koordinatı: '))
 x0=float(input('Nirengi x koordinatı: '))
 
